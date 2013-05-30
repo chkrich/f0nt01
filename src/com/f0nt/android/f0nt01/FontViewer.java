@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 import com.blazeinno.android.ui.FontView;
-import com.f0nt.android.R;
 
 import android.net.Uri;
 import android.os.Bundle;
