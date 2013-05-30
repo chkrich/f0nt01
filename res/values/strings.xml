@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">f0nt.com 01</string>
+    <string name="action_settings">Settings</string>
+    <string name="font_title">SIPA Pack</string>
+    <string name="font_desc">The fonts from SIPA</string>
+    <string name="uninstall">Uninstall</string>
+
+</resources>
